@@ -56,7 +56,7 @@ Fluminense Federal University (Unfinished)
 LANGUAGES
 =========
 
-- English (Fluent in writting/reading)
+- English (Fluent in writing/reading)
 - Portuguese (Native)
 
 PERSONAL PROJECTS

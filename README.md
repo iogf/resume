@@ -153,7 +153,7 @@ Python
 A modular irc client with a simple and powerful api programming interface.
 
 **Project site:**
-http://nerdirc.sourceforge.net/
+https://github.com/iogf/nerdirc
 
 **Tecnologies used:**
 Python
@@ -242,6 +242,7 @@ http://keycmd.sourceforge.net/ (Lacking documentation)
 
 **Tecnologies used:**
 Python
+
 
 
 

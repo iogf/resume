@@ -189,7 +189,7 @@ Python
 A simple and modular ircbot with a powerful and intuitive programming api interface.
 
 **Project site:**
-https://candocabot.sourceforge.net
+https://sourceforge.net/p/candocabot/code/ci/master/tree/
 
 **Tecnologies used:**
 Python
@@ -242,6 +242,7 @@ http://keycmd.sourceforge.net/ (Lacking documentation)
 
 **Tecnologies used:**
 Python
+
 
 
 

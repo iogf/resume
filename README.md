@@ -43,11 +43,15 @@ COMPUTER SKILLS
 EDUCATION
 =========
 
-**Mathematics:**
+**Computer science - 2009**
+
 Fluminense Federal University (Unfinished)
 
-**Computer science:**
+
+**Mathematics - 2011**
+
 Fluminense Federal University (Unfinished)
+
 
 LANGUAGES
 =========
@@ -148,6 +152,7 @@ Project site: http://proxscan.sourceforge.net/ (Lacking documentation)
 A different way to manage files.
 
 Project site: http://keycmd.sourceforge.net/ (Lacking documentation)
+
 
 
 

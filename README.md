@@ -87,6 +87,37 @@ Python
 
 ***
 
+###Rapidserv###
+
+A flexible, modular and simple web server made with Untwisted.
+
+**Project site:**
+https://github.com/iogf/rapidserv (Lacking documentation, unfinished)
+
+**Tecnologies used:**
+Python
+
+**Observation**
+https://github.com/iogf/rapidserv/tree/master/demo/kinvey (is a backend example with kinvey) 
+Depends on https://github.com/iogf/uxreq
+
+***
+
+###Uxreq###
+
+A http asyncrhonous lib on top of untwisted.
+
+**Project site:**
+https://github.com/iogf/uxreq
+
+**Tecnologies used:**
+Python
+
+**Observation**
+https://github.com/iogf/uxreq/tree/master/demo/post (It is an example with kinvey)
+
+***
+
 ###EHP (Easy html parser)###
 
 Easy Html Parser is an AST generator for html/xml documents. 
@@ -130,18 +161,6 @@ A simple implementation of scheme in python.
 
 **Project site:**
 http://isch.sourceforge.net/
-
-**Tecnologies used:**
-Python
-
-***
-
-###Rapidserv###
-
-A flexible, modular and simple web server made with Untwisted.
-
-**Project site:**
-http://rapidserv.sourceforge.net/ (Lacking documentation, unfinished)
 
 **Tecnologies used:**
 Python
@@ -242,6 +261,8 @@ http://keycmd.sourceforge.net/ (Lacking documentation)
 
 **Tecnologies used:**
 Python
+
+
 
 
 

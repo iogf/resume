@@ -74,28 +74,6 @@ https://github.com/iogf/nerdirc
 
 ***
 
-###Rapidserv###
-
-A flexible, modular and simple web server made with Untwisted.
-
-**Project site:**
-https://github.com/iogf/rapidserv (Lacking documentation, unfinished)
-
-**Observation**
-https://github.com/iogf/rapidserv/tree/master/demo/kinvey (is a backend example with kinvey) 
-Depends on https://github.com/iogf/uxreq
-
-***
-
-###Uxreq###
-
-A http asyncrhonous lib on top of untwisted.
-
-**Project site:**
-https://github.com/iogf/uxreq
-
-***
-
 ###Lax###
 
 A pythonic way of writting latex.
@@ -134,6 +112,7 @@ GITHUB PROFILE
 ==============
 
 https://github.com/iogf
+
 
 
 

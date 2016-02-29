@@ -28,7 +28,7 @@ COMPUTER SKILLS
 - Java
 - Javascript
 - HTML, BOOTSTRAP
-- SQLite, MySQL
+- SQLite, MySQL, Neo4j
 - Linux, Windows
 - Git, FTP, SSH
 
@@ -115,6 +115,7 @@ GITHUB PROFILE
 ==============
 
 https://github.com/iogf
+
 
 
 

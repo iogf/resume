@@ -38,8 +38,7 @@ EDUCATION
 
 **Mathematics - 2011**
 
-Fluminense Federal University (Unfinished)
-
+Fluminense Federal University
 
 LANGUAGES
 =========
@@ -68,12 +67,12 @@ https://github.com/iogf/ehp
 
 ***
 
-###Nerdirc###
+###Untwisted###
 
-A modular irc client extensible with python.
+An event driven based framework for developing networking applications in python.
 
 **Project site:**
-https://github.com/iogf/nerdirc
+https://github.com/iogf/untwisted
 
 ***
 
@@ -86,42 +85,27 @@ https://github.com/iogf/lax
 
 ***
 
-###Untwisted###
-
-An event driven based framework for developing network applications.
-
-**Project site:**
-http://untwisted.sourceforge.net/
-
-***
-
-###Isch###
-
-A fancy implementation of scheme in python.
-
-**Project site:**
-http://isch.sourceforge.net/
-
-***
-
 ###Keycmd###
 
 A different way to manage files.
 
 **Project site:**
-http://keycmd.sourceforge.net/ (Lacking documentation)
+https://github.com/iogf/keycmd
+
+***
+
+###Nerdirc###
+
+A modular irc client extensible with python.
+
+**Project site:**
+https://github.com/iogf/nerdirc
+
 
 GITHUB PROFILE
 ==============
 
 https://github.com/iogf
-
-
-
-
-
-
-
 
 
 

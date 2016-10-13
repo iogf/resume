@@ -1,4 +1,4 @@
-PERSONAL
+Personal
 ========
 
 **Name:** 
@@ -19,7 +19,7 @@ Brazilian
 **Skype:**
 arcamens
 
-COMPUTER LANGUAGES
+Computer Languages
 ==================
 
 - Python 
@@ -28,39 +28,48 @@ COMPUTER LANGUAGES
 - Java
 - Javascript 
 
-MOST USED FRAMEWORKS
-====================
+Frameworks
+==========
 
-- Django, Flask, Untwisted
-- HTML, BOOTSTRAP, JQuery
+- Django
+- Flask
+- Untwisted
+- BOOTSTRAP
+- JQuery
 
-DATABASE MANAGEMENT SYSTEMS
-===========================
+Databases
+=========
 
-- SQLite, MySQL, Neo4j
+- SQLite
+- MySQL
+- Neo4j
 
-OPERATING SYSTEMS
+Operating Systems
 =================
 
-- Linux (Arch, Debian, etc..)
+- Linux 
+    - Arch
+    - Debian
+    - Ubuntu
 
-- Windows (Ruindows :P)
+- Windows 
+    - Ruindows :P
 
-EDUCATION
+Education
 =========
 
 **Mathematics** 
 
 Fluminense Federal University
 
-LANGUAGES
+Languages
 =========
 
 - English (Fluent in writing/reading)
 - Portuguese (Native)
 
-MAIN PERSONAL PROJECTS
-======================
+Main Projects 
+=============
 
 ###Vy###
 
@@ -119,6 +128,7 @@ GITHUB PROFILE
 ==============
 
 https://github.com/iogf
+
 
 
 

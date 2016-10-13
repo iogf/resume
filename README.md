@@ -14,29 +14,42 @@ Rio de janeiro, Brazil
 Brazilian
 
 **Phone:**
-55 22 997174758
+55 22 981452479
 
 **Skype:**
 arcamens
 
-COMPUTER SKILLS
-===============
+COMPUTER LANGUAGES
+==================
 
-- Python
+- Python 
 - C
 - Bash
 - Java
-- Javascript
-- HTML, BOOTSTRAP
-- SQLite, MySQL, Neo4j
-- Linux, Windows
-- Git, FTP, SSH
+- Javascript 
 
+MOST USED FRAMEWORKS
+====================
+
+- Django, Flask, Untwisted
+- HTML, BOOTSTRAP, JQuery
+
+DATABASE MANAGEMENT SYSTEMS
+===========================
+
+- SQLite, MySQL, Neo4j
+
+OPERATING SYSTEMS
+=================
+
+- Linux (Arch, Debian, etc..)
+
+- Windows (Ruindows :P)
 
 EDUCATION
 =========
 
-**Mathematics - 2011**
+**Mathematics** 
 
 Fluminense Federal University
 
@@ -106,6 +119,8 @@ GITHUB PROFILE
 ==============
 
 https://github.com/iogf
+
+
 
 
 

@@ -25,7 +25,6 @@ Computer Languages
 - Python 
 - C
 - Bash
-- Java
 - Javascript 
 
 Frameworks
@@ -33,8 +32,7 @@ Frameworks
 
 - Django
 - Flask
-- Untwisted
-- BOOTSTRAP
+- Bootstrap
 - JQuery
 
 Databases
@@ -51,6 +49,7 @@ Operating Systems
     - Arch
     - Debian
     - Ubuntu
+    - Fedora
 
 - Windows 
     - Ruindows :P
@@ -58,7 +57,11 @@ Operating Systems
 Education
 =========
 
-**Mathematics** 
+**Computer science (Unfinished)** 
+
+Fluminense Federal University
+
+**Mathematics (Unfinished)** 
 
 Fluminense Federal University
 
@@ -68,71 +71,9 @@ Languages
 - English (Fluent in writing/reading)
 - Portuguese (Native)
 
-Main Projects 
-=============
-
-###Vy###
-
-A vim-like in python with highlighing syntax, modular interface, interactivity with
-other applications, python autocompletion.
-
-**Project site:**
-https://github.com/iogf/vy
-
-###EHP (Easy html parser)###
-
-Easy Html Parser is an AST generator for html/xml documents. 
-You can easily delete/insert/extract tags in html/xml documents as well as look for patterns.
-
-**Project site:**
-https://github.com/iogf/ehp
-
-***
-
-###Untwisted###
-
-An event driven based framework for developing networking applications in python.
-
-**Project site:**
-https://github.com/iogf/untwisted
-
-***
-
-###Lax###
-
-A pythonic way of writting latex.
-
-**Project site:**
-https://github.com/iogf/lax
-
-***
-
-###Keycmd###
-
-A different way to manage files.
-
-**Project site:**
-https://github.com/iogf/keycmd
-
-***
-
-###Nerdirc###
-
-A modular irc client extensible with python.
-
-**Project site:**
-https://github.com/iogf/nerdirc
-
-
-GITHUB PROFILE
-==============
+Github
+======
 
 https://github.com/iogf
-
-
-
-
-
-
 
 

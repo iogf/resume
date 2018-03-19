@@ -14,7 +14,7 @@ Rio de janeiro, Brazil
 Brazilian
 
 **Phone:**
-55 22 981452479
+55 22 981795768
 
 **Skype:**
 arcamens
@@ -68,12 +68,15 @@ Fluminense Federal University
 Languages
 =========
 
-- English (Fluent in writing/reading)
-- Portuguese (Native)
+- English 
+- Portuguese 
 
 Github
 ======
 
 https://github.com/iogf
+
+
+
 
 

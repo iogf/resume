@@ -16,9 +16,6 @@ Brazilian
 **Phone:**
 55 22 981795768
 
-**Skype:**
-arcamens
-
 Computer Languages
 ==================
 
@@ -51,17 +48,10 @@ Operating Systems
     - Ubuntu
     - Fedora
 
-- Windows 
-    - Ruindows :P
-
 Education
 =========
 
 **Computer science (Unfinished)** 
-
-Fluminense Federal University
-
-**Mathematics (Unfinished)** 
 
 Fluminense Federal University
 
@@ -71,11 +61,20 @@ Languages
 - English 
 - Portuguese 
 
+Work Experience
+===============
+
+**Arcamens**
+
+https://arcamens.com/
+
+**2016 - 2018**  Python/Django Developer
+
+
 Github
 ======
 
 https://github.com/iogf
-
 
 
 

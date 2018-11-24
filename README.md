@@ -8,13 +8,13 @@ Iury de Oliveira Gomes Figueiredo
 ioliveira@id.uff.br
 
 **Place of residence:** 
-Rio de janeiro, Brazil
+Curitiba, Parana
 
 **Citizenship:** 
 Brazilian
 
 **Phone:**
-55 22 981795768
+55 41 987814991
 
 Computer Languages
 ==================
@@ -75,6 +75,7 @@ Github
 ======
 
 https://github.com/iogf
+
 
 
 

@@ -39,6 +39,13 @@ Databases
 - MySQL
 - Neo4j
 
+Other 
+=====
+
+- Rabbitmq (Python pika)
+
+- Celery (Python django-celery)
+
 Operating Systems
 =================
 
@@ -75,6 +82,7 @@ Github
 ======
 
 https://github.com/iogf
+
 
 
 

@@ -27,10 +27,12 @@ Computer Languages
 Frameworks
 ==========
 
-- Django
+- Python Django
 - Flask
 - Bootstrap
 - JQuery
+- Python Twisted
+- Python scrapy
 
 Databases
 =========
@@ -42,9 +44,9 @@ Databases
 Other 
 =====
 
-- Rabbitmq (Python pika)
-
+- RabbitMQ (Python pika)
 - Celery (Python django-celery)
+- Redis (Python redis)
 
 Operating Systems
 =================

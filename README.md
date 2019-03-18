@@ -125,10 +125,10 @@ Project site: https://arcamens.com/
 
 Notes: I have helped to design and implement this project management platform 
 whose main goal is to be highly flexible and effortless for teams  which deal with 
-high amount of tasks due to the powerful aggregated concepts  which includes a total 
-new way of visualizing kanban boards and usage of cut/paste  instead of dragging/dropping. 
+high amount of tasks due to the powerful aggregated concepts. Arcamens implements a totally
+new way of visualizing kanban boards and it also makes usage of cut/paste instead of dragging/dropping. 
 The platform was built on top of the robust web framework Django.  We have used rabbitmq, 
-bootstrap, javascript. I have helped to design a module to deliver Web Pushs notification 
+bootstrap, javascript. I have also helped to design a module to deliver Web Pushs notification 
 through https://onesignal.com as well. 
 
 Github

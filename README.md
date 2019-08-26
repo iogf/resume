@@ -5,7 +5,7 @@ Personal
 Iury de Oliveira Gomes Figueiredo
 
 **E-mail:** 
-ioliveira@id.uff.br
+last.src@gmail.com
 
 **Place of residence:** 
 Curitiba, Parana
@@ -124,6 +124,8 @@ Github
 ======
 
 https://github.com/iogf
+
+
 
 
 

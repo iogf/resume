@@ -14,7 +14,7 @@ Curitiba, Parana
 Brazilian
 
 **Phone:**
-55 41 987814991
+55 22 992059085
 
 Computer Languages
 ==================
@@ -23,6 +23,7 @@ Computer Languages
 - C
 - Bash
 - Javascript 
+- Golang
 
 Frameworks
 ==========
@@ -47,6 +48,7 @@ Other
 - RabbitMQ (Python pika)
 - Celery (Python django-celery)
 - Redis (Python redis)
+- Google Pubsub
 
 Operating Systems
 =================
@@ -124,13 +126,4 @@ Github
 ======
 
 https://github.com/iogf
-
-
-
-
-
-
-
-
-
 

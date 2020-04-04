@@ -5,10 +5,14 @@ Personal
 Iury de Oliveira Gomes Figueiredo
 
 **E-mail:** 
+
 last.src@gmail.com
 
+ioliveira@id.uff.br
+
 **Place of residence:** 
-Curitiba, Parana
+
+Curitiba, Rio de Janeiro - RJ
 
 **Citizenship:** 
 Brazilian
@@ -111,12 +115,28 @@ python Jedi auto completion package, golang Gocode auto completion engine
 among other tools to develop some of Vy plugins. Vy is meant to be a
 vim-like written in python, flexible and highly programmable.
 
+**Eacc**
+
+Project site: https://github.com/iogf/eacc
+
+Notes: A parser whose goal is offering a powerful mechanism to handle complex parsing problems.
+It also offers a flexible lexer which makes it handy to tokenize complex structures.
+
+
 Work Experience
 ===============
 
+**Stone Payments**
+
+site: https://www.stone.com.br/
+
+**Nsoft**
+
+Site: https://www.nsoft.com/
+
 **Arcamens**
 
-Project site: https://github.com/arcamens/
+Site: https://github.com/arcamens/
 
 Notes: I have conceived the specification and implemented this project management platform 
 whose main goal is to be highly flexible and effortless for teams. It is on top of

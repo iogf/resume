@@ -12,7 +12,7 @@ ioliveira@id.uff.br
 
 **Place of residence:** 
 
-Curitiba, Rio de Janeiro - RJ
+Rio de Janeiro - RJ
 
 **Citizenship:** 
 Brazilian

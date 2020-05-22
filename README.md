@@ -72,6 +72,14 @@ Languages
 Personal Projects
 =================
 
+**Shiva**
+
+Project site: https://github.com/iogf/shiva
+
+Notes: I have conceived both concept and implementation of Shiva platform whose goal
+is allowing people to get help and help others. I have developed it entirely using
+Python/Django and HTML5/Bootstrap4.
+
 **Sukhoi**
 
 Project site: https://github.com/untwisted/sukhoi

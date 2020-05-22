@@ -134,10 +134,6 @@ It also offers a flexible lexer which makes it handy to tokenize complex structu
 Work Experience
 ===============
 
-**Stone Payments**
-
-site: https://www.stone.com.br/
-
 **Nsoft**
 
 Site: https://www.nsoft.com/

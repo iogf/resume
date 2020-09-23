@@ -18,7 +18,7 @@ Rio de Janeiro - RJ
 Brazilian
 
 **Phone:**
-55 22 992059085
+55 22992073333
 
 Computer Languages
 ==================

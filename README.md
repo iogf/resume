@@ -8,17 +8,12 @@ Iury de Oliveira Gomes Figueiredo
 
 last.src@gmail.com
 
-ioliveira@id.uff.br
-
 **Place of residence:** 
 
 Rio de Janeiro - RJ
 
 **Citizenship:** 
 Brazilian
-
-**Phone:**
-55 22974016798
 
 Computer Languages
 ==================

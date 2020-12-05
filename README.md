@@ -67,9 +67,17 @@ Languages
 Personal Projects
 =================
 
+**Shiva**
+
+https://github.com/iogf/shiva
+
+Notes: I have conceived both concept and implementation of Shiva platform whose goal
+is allowing people to get help and help others. I have developed it entirely using
+Python/Django and HTML5/Bootstrap4.
+
 **Crocs**
 
-Project site: https://github.com/iogf/crocs
+https://github.com/iogf/crocs
 
 Notes: I have designed and implemented this framework to
 increase creativity/productivity when dealing with regex patterns. It also is meant
@@ -77,22 +85,23 @@ to reduce errors and improve testing of regex patterns.
 
 **Eacc**
 
-Project site: https://github.com/iogf/eacc
+https://github.com/iogf/eacc
 
 Notes: A parser whose goal is offering a powerful mechanism to handle complex parsing problems.
 It also offers a flexible lexer which makes it handy to tokenize complex structures.
 
-**Shiva**
+**WebSnake**
 
-Project site: https://github.com/iogf/shiva
+https://github.com/untwisted/websnake
 
-Notes: I have conceived both concept and implementation of Shiva platform whose goal
-is allowing people to get help and help others. I have developed it entirely using
-Python/Django and HTML5/Bootstrap4.
+Notes: I designed and implemented entirely WebSnake that is an aiohttp alternative. It allows
+to perform multiple HTTP/HTTPS requests in parallel. There is built-in support for basic authorization
+and also token based authorization.
+
 
 **Sukhoi**
 
-Project site: https://github.com/untwisted/sukhoi
+https://github.com/untwisted/sukhoi
 
 Notes: I have designed and implemented this micro web crawler framework.
 I have built it on top of Untwisted framework which is meant to ease
@@ -101,7 +110,7 @@ which is a library to perform asynchronous http/https requests.
 
 **Vy**
 
-Project site: https://github.com/vyapp/vy
+https://github.com/vyapp/vy
 
 Notes: I have designed and implemented this Editor/IDE on top of
 Python Tkinter package. I have also used Untwisted framework, 

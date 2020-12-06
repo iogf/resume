@@ -67,64 +67,55 @@ Languages
 Personal Projects
 =================
 
+**Arcamens**
+
+https://github.com/arcamens/arcamens
+
+I made several contributions to the Arcamens Project Management Platform. It is built on top
+of Python Django Framework. It implements a powerful approach to manage projects and teams.
+
 **Shiva**
 
 https://github.com/iogf/shiva
 
-Notes: I have conceived both concept and implementation of Shiva platform whose goal
-is allowing people to get help and help others. I have developed it entirely using
-Python/Django and HTML5/Bootstrap4.
+A flexible concept of a tickets platform. Built on top of Python Django Framework.
 
 **Crocs**
 
 https://github.com/iogf/crocs
 
-Notes: I have designed and implemented this framework to
-increase creativity/productivity when dealing with regex patterns. It also is meant
-to reduce errors and improve testing of regex patterns.
+Implement the concept of yregex's that are a mean to build regex's using
+merely Python code.
 
 **Eacc**
 
 https://github.com/iogf/eacc
 
-Notes: A parser whose goal is offering a powerful mechanism to handle complex parsing problems.
-It also offers a flexible lexer which makes it handy to tokenize complex structures.
+A Yacc-Lex like tool with focus on ambiguous grammars.
 
 **WebSnake**
 
 https://github.com/untwisted/websnake
 
-Notes: I designed and implemented entirely WebSnake that is an aiohttp alternative. It allows
-to perform multiple HTTP/HTTPS requests in parallel. There is built-in support for basic authorization
-and also token based authorization.
-
+A HTTP/HTTPS requests with a non-blocking approach. It is an aiohttp alternative
+built on top of Untwisted Framework.
 
 **Sukhoi**
 
 https://github.com/untwisted/sukhoi
 
-Notes: I have designed and implemented this micro web crawler framework.
-I have built it on top of Untwisted framework which is meant to ease
-the implementation of networking applications. It also uses Websnake
-which is a library to perform asynchronous http/https requests.
+**Untwisted**
+
+https://github.com/untwisted/untwisted
+
+An Event-Driven Framework for Python that allows to deal with sockets in a non-blocking
+manner.
 
 **Vy**
 
 https://github.com/vyapp/vy
 
-Notes: I have designed and implemented this Editor/IDE on top of
-Python Tkinter package. I have also used Untwisted framework, 
-python Jedi auto completion package, golang Gocode auto completion engine 
-among other tools to develop some of Vy plugins. Vy is meant to be a
-vim-like written in python, flexible and highly programmable.
-
-
-Work Experience
-===============
-
-**Nsoft**
-
-Site: https://www.nsoft.com/
+A succinct vim-like implementation written in Python and Tkinter.
 
 Github
 ======

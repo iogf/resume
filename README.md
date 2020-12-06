@@ -37,9 +37,10 @@ Frameworks
 Databases
 =========
 
-- SQLite
 - MySQL
 - Neo4j
+- MongoDB
+
 
 Other 
 =====
@@ -48,6 +49,7 @@ Other
 - Celery (Python django-celery)
 - Redis (Python redis)
 - Google Pubsub
+- Docker
 
 Operating Systems
 =================

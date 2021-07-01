@@ -172,9 +172,6 @@ https://github.com/iogf/mnem
 
 A note reminder that uses dzen2 to display notes
 
-Hobby
-=====
-
 **Shiva**
 
 https://github.com/iogf/shiva

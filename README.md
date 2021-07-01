@@ -10,10 +10,33 @@ last.src@gmail.com
 
 **Place of residence:** 
 
-Rio de Janeiro - RJ
+São Paulo - SP
 
 **Citizenship:** 
+
 Brazilian
+
+Experience
+==========
+
+- Senior System Developer ( [NSoft](https://www.nsoft.com/) )
+
+Developing microservices and a layer that held plugins for two architectures (Raspberry and Intel x86).
+Worked on integrations with cash register devices. Worked on integrations between Python logging and System logging.
+The work done was part of a product involving casino systems.
+
+Tech used: Python CherryPy, Python Psutil, Docker, Cloud, REST APIs, Websockets
+
+- Senior Software Engineer ( [arcamens](https://github.com/arcamens/arcamens) )
+
+I made several contributions to the Arcamens Project Management Platform. It is built on top
+of Python Django Framework. It implements a powerful approach to manage projects and teams.
+
+- Development Specialist ( [Stone](https://www.stone.com.br/) )
+
+Maintenance and integration of existing microservices.
+
+Tech used: Django REST Framework, development of a REST API, Google PubSub, Docker
 
 Computer Languages
 ==================
@@ -33,6 +56,8 @@ Frameworks
 - JQuery
 - Python Twisted
 - Python scrapy
+- CherryPy
+- Psutil
 
 Databases
 =========
@@ -48,8 +73,13 @@ Other
 - RabbitMQ (Python pika)
 - Celery (Python django-celery)
 - Redis (Python redis)
-- Google Pubsub
+- Google Cloud (GCP)
 - Docker
+- Git
+- Mercurial
+- Kubernetes
+- Web Services
+- Testing
 
 Operating Systems
 =================
@@ -63,24 +93,22 @@ Operating Systems
 Languages
 =========
 
-- English 
-- Portuguese 
+- English (Fluent)
+- Portuguese (Native)
 
-Personal Projects
-=================
+Education
+=========
 
-**Arcamens**
+Bacharelors of Computer Science (UFF)
 
-https://github.com/arcamens/arcamens
+Academic/FOSS
+=============
 
-I made several contributions to the Arcamens Project Management Platform. It is built on top
-of Python Django Framework. It implements a powerful approach to manage projects and teams.
+**Eacc**
 
-**Shiva**
+https://github.com/iogf/eacc
 
-https://github.com/iogf/shiva
-
-A flexible concept of a tickets platform. Built on top of Python Django Framework.
+A Yacc-Lex like tool with focus on ambiguous grammars.
 
 **Crocs**
 
@@ -89,11 +117,11 @@ https://github.com/iogf/crocs
 Implement the concept of yregex's that are a mean to build regex's using
 merely Python code.
 
-**Eacc**
+**Vy**
 
-https://github.com/iogf/eacc
+https://github.com/vyapp/vy
 
-A Yacc-Lex like tool with focus on ambiguous grammars.
+A succinct vim-like implementation written in Python and Tkinter.
 
 **WebSnake**
 
@@ -113,11 +141,51 @@ https://github.com/untwisted/untwisted
 An Event-Driven Framework for Python that allows to deal with sockets in a non-blocking
 manner.
 
-**Vy**
+**Rapidserv**
 
-https://github.com/vyapp/vy
+https://github.com/untwisted/rapidserv
 
-A succinct vim-like implementation written in Python and Tkinter.
+A non-blocking Flask-like Web Framework in Python.
+
+**Amelia**
+
+https://github.com/untwisted/amelia
+
+A flexible ircbot written on top of untwisted framework.
+
+
+**Steinitz**
+
+https://github.com/untwisted/steinitz
+
+A chess interface to fics with support for stockfish to analyze moves.
+
+**Quickirc**
+
+https://github.com/untwisted/quickirc
+
+A nifty python IRC library.
+
+**Mnem**
+
+https://github.com/iogf/mnem
+
+A note reminder that uses dzen2 to display notes
+
+Hobby
+=====
+
+**Shiva**
+
+https://github.com/iogf/shiva
+
+A flexible concept of a tickets platform. Built on top of Python Django Framework.
+
+**Lax**
+
+https://github.com/iogf/lax
+
+Write Python code instead of Latex for mathematics expressions.
 
 Github
 ======

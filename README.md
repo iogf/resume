@@ -70,7 +70,7 @@ Tech used: Django REST Framework, development of a REST API, Google PubSub, Dock
 Academic/FOSS
 =============
 
-The following packages/frameworks were developed integrally by me. I extend and maintain all of them
+The following projects were developed integrally by me. I extend and maintain all of them
 as a hobby passion along spare time.
 
 **Vy**

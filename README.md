@@ -19,7 +19,9 @@ Experience
 
 ### Senior System Developer 
 
-#### Nsoft (https://www.nsoft.com/)
+#### Nsoft 
+
+https://www.nsoft.com/
 
 Maintanance and development of microservices and a layer that held plugins for two architectures (Raspberry and Intel x86).
 Worked on integrations with cash register devices. Worked on integrations between Python logging and System logging.
@@ -29,30 +31,32 @@ Tech used: Python CherryPy, Python Psutil, Docker, Cloud, REST APIs, Websockets
 
 ### Senior Software Engineer 
 
-#### Arcamens (https://github.com/arcamens/arcamens)
+#### Arcamens 
+
+https://github.com/arcamens/arcamens
 
 Implementation of features, maintanance and development of Django applications for
 integration with payment systems and Web Push notifications.
 
-- Django Autocroll
+**Django Autocroll**
 
 https://github.com/arcamens/django-autoscroll
 
 Simplify implementing automatic scrolling in django.
 
-- Django Slock
+**Django Slock**
 
 https://github.com/arcamens/django-slock
 
 A consistent django authentication system.
 
-- django-onesignal
+**django-onesignal**
 
 https://github.com/arcamens/django-onesignal
 
 Web pushes through onesignal.
 
-- Django Paybills
+**Django Paybills**
 
 This package is a way to abstract and simplify the implementation of Django 
 platforms that interact with Paypal. 
@@ -61,7 +65,9 @@ https://github.com/arcamens/django-paybills
 
 ### Development Specialist 
 
-#### Stone (https://www.stone.com.br/)
+#### Stone 
+
+https://www.stone.com.br/
 
 Maintenance and integration of existing microservices.
 

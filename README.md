@@ -16,6 +16,7 @@ Brazilian
 Experience
 ==========
 
+## Private 
 
 ### Senior System Developer 
 
@@ -38,30 +39,33 @@ https://github.com/arcamens/arcamens
 Implementation of features, maintanance and development of Django applications for
 integration with payment systems and Web Push notifications.
 
-**Django Autocroll**
+- Django Autocroll
 
-https://github.com/arcamens/django-autoscroll
+    Simplify implementing automatic scrolling in django.
 
-Simplify implementing automatic scrolling in django.
+    https://github.com/arcamens/django-autoscroll
 
-**Django Slock**
+- Django Slock 
 
-https://github.com/arcamens/django-slock
+    A flexible Django Authentication System.
 
-A consistent django authentication system.
+    https://github.com/arcamens/django-slock
 
-**django-onesignal**
 
-https://github.com/arcamens/django-onesignal
+- Django Onesignal
 
-Web pushes through onesignal.
+    Web pushes through onesignal.
 
-**Django Paybills**
+    https://github.com/arcamens/django-onesignal
 
-This package is a way to abstract and simplify the implementation of Django 
-platforms that interact with Paypal. 
+- Django Paybills
 
-https://github.com/arcamens/django-paybills
+    This package is a way to abstract and simplify the implementation of Django 
+    platforms that interact with Paypal. 
+
+    https://github.com/arcamens/django-paybills
+
+Tech used: Python Django, HTML5, Bootstrap, WebSockets.
 
 ### Development Specialist 
 
@@ -73,87 +77,106 @@ Maintenance and integration of existing microservices.
 
 Tech used: Django REST Framework, development of a REST API, Google PubSub, Docker
 
-Academic/FOSS
-=============
+## OpenSource/FOSS
 
 The following projects were developed integrally by me. I extend and maintain all of them
 as a hobby passion along spare time.
 
-**Vy**
+### Founder
+
+#### Vy
 
 https://github.com/vyapp/vy
 
 A succinct vim-like implementation written in Python and Tkinter. It has some 
 built in support for C, C++, Python, Go, JavaScript.
 
-**Crocs**
+### Founder
+
+#### Sukhoi
+
+Minimalist and powerful Web Crawler.
+
+https://github.com/untwisted/sukhoi
+
+### Founder
+
+#### Crocs
 
 https://github.com/iogf/crocs
 
 Implement the concept of yregex's that are a mean to build regex's using
 merely Python code.
 
-**Eacc**
+### Founder
+
+#### Eacc
 
 https://github.com/iogf/eacc
 
 A Yacc-Lex like tool with focus on ambiguous grammars.
 
-**WebSnake**
+### Founder
+
+#### WebSnake
 
 https://github.com/untwisted/websnake
 
 A HTTP/HTTPS requests with a non-blocking approach. It is an aiohttp alternative
 built on top of Untwisted Framework.
 
-**Sukhoi**
+### Founder
 
-https://github.com/untwisted/sukhoi
-
-**Untwisted**
+#### Untwisted
 
 https://github.com/untwisted/untwisted
 
 An Event-Driven Framework for Python that allows to deal with sockets in a non-blocking
 manner.
 
-**Rapidserv**
+### Founder
 
-https://github.com/untwisted/rapidserv
-
-A non-blocking Flask-like Web Framework in Python.
-
-**Amelia**
+#### Amelia
 
 https://github.com/untwisted/amelia
 
 A flexible ircbot written on top of untwisted framework.
 
-**Steinitz**
+### Founder
+
+#### Steinitz
 
 https://github.com/untwisted/steinitz
 
 A chess interface to fics with support for stockfish to analyze moves.
 
-**Quickirc**
+### Founder
+
+#### Quickirc
 
 https://github.com/untwisted/quickirc
 
 A nifty python IRC library.
 
-**Mnem**
+### Founder
+
+#### Mnem
 
 https://github.com/iogf/mnem
 
 A note reminder that uses dzen2 to display notes
 
-**Shiva**
+### Founder
+
+#### Shiva
 
 https://github.com/iogf/shiva
 
 A flexible concept of a tickets platform. Built on top of Python Django Framework.
 
-**Lax**
+### Founder
+
+#### Lax
 
 https://github.com/iogf/lax
 
@@ -163,10 +186,11 @@ Computer Languages
 ==================
 
 - Python 
-- C
+- C/C++
 - Bash
 - Javascript 
 - Golang
+- HTML/HTML5
 
 Frameworks
 ==========
@@ -194,7 +218,8 @@ Other
 - RabbitMQ (Python pika)
 - Celery (Python django-celery)
 - Redis (Python redis)
-- Google Cloud (GCP)
+- Google Cloud GCP
+- Amazon AWS
 - Docker
 - Git
 - Mercurial
@@ -206,7 +231,7 @@ Operating Systems
 =================
 
 - Linux 
-    - Arch
+    - Archlinux
     - Debian
     - Ubuntu
     - Fedora

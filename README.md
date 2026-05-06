@@ -78,8 +78,7 @@ as a hobby passion along spare time.
 
 https://github.com/iogf/escs
 
-A succinct vim-like implementation written in Python and Tkinter. It has some 
-built in support for C, C++, Python, Go, JavaScript.
+A modal Text Editor/IDE written in Python/Tk.
 
 #### Crocs
 

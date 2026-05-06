@@ -16,9 +16,7 @@ Brazilian
 Experience
 ==========
 
-### Senior System Developer 
-
-#### Nsoft 
+#### Nsoft - Senior System Developer 
 
 https://www.nsoft.com/
 
@@ -28,9 +26,7 @@ The work done was part of a product involving casino systems.
 
 Tech used: Python CherryPy, Python Psutil, Docker, Cloud, REST APIs, Websockets
 
-### Senior Software Engineer 
-
-#### Arcamens 
+#### Arcamens - Senior Software Engineer 
 
 https://github.com/arcamens/arcamens
 
@@ -65,9 +61,7 @@ integration with payment systems and Web Push notifications.
 
 Tech used: Python Django, HTML5, Bootstrap, WebSockets.
 
-### Development Specialist 
-
-#### Stone 
+#### Stone - Development Specialist
 
 https://www.stone.com.br/
 
@@ -80,18 +74,12 @@ Tech used: Django REST Framework, development of a REST API, Google PubSub, Dock
 The following projects were developed integrally by me. I extend and maintain all of them
 as a hobby passion along spare time.
 
-#### Vy
+#### Escs
 
-https://github.com/iogf/vy
+https://github.com/iogf/escs
 
 A succinct vim-like implementation written in Python and Tkinter. It has some 
 built in support for C, C++, Python, Go, JavaScript.
-
-#### Sukhoi
-
-Minimalist and powerful Web Crawler.
-
-https://github.com/untwisted/sukhoi
 
 #### Crocs
 
@@ -105,6 +93,12 @@ merely Python code.
 https://github.com/iogf/eacc
 
 A Yacc-Lex like tool with focus on ambiguous grammars.
+
+#### Sukhoi
+
+Minimalist and powerful Web Crawler.
+
+https://github.com/untwisted/sukhoi
 
 #### WebSnake
 

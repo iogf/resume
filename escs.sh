@@ -1,5 +1,5 @@
 ##############################################################################
-# resume, github.
+# Push resume commits.
 
 cd ~/projects
 git clone git@github.com:iogf/resume.git resume-code
@@ -13,7 +13,7 @@ git commit -a
 git push
 
 ##############################################################################
-# markdown, md to html, resume, curriculum, edit curriculum, edit resume
+# Convert resume from md to html.
 
 markdown README.md >> /tmp/resume.html
 google-chrome /tmp/resume.html
